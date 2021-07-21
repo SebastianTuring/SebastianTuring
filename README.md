@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello There, I'm Juan Sebastián Osorio Valencia
 
 <!--
 **SebastianTuring/SebastianTuring** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
